@@ -1,0 +1,100 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2027-09-18T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Trujillo",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-03-01T10:49:49.302Z",
+      "notes": "",
+      "position": {
+        "lat": "39.59496137511068",
+        "lng": "-6.163539882530649"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Malpica de Tajo",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-03-02T16:40:08.018Z",
+      "notes": "",
+      "position": {
+        "lat": "39.87795247268791",
+        "lng": "-4.603271484375001"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "El Aioun",
+      "country": "Morocco",
+      "emoji": "🇲🇦",
+      "date": "2024-03-04T10:16:17.279Z",
+      "notes": "Test",
+      "position": {
+        "lat": "34.54631748066095",
+        "lng": "-2.4938964843750004"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Pimentel",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2024-03-04T10:17:48.880Z",
+      "notes": "",
+      "position": {
+        "lat": "39.48239452979017",
+        "lng": "9.074707031250002"
+      },
+      "id": 98443202
+    }
+  ]
+}
